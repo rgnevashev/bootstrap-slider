@@ -1,6 +1,6 @@
 Package.describe({
   name: 'rgnevashev:bootstrap-slider',
-  version: '6.0.6',
+  version: '6.0.17',
   summary: 'a slider element for bootstrap 2/3',
   git: 'https://github.com/seiyria/bootstrap-slider',
   documentation: 'README.md'
